@@ -1,0 +1,17 @@
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\SocialApi.deps.json
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\SocialApi.runtimeconfig.json
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\SocialApi.runtimeconfig.dev.json
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\SocialApi.dll
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.AssemblyInfoInputs.cache
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.AssemblyInfo.cs
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.RazorAssemblyInfo.cache
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.RazorAssemblyInfo.cs
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.RazorTargetAssemblyInfo.cache
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.genruntimeconfig.cache
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\bin\Debug\netcoreapp2.1\SocialApi.pdb
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.csproj.CoreCompileInputs.cache
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.dll
+D:\Univer\An IV\PAD\Labs\Lab2\SocialApi\SocialApi\obj\Debug\netcoreapp2.1\SocialApi.pdb
