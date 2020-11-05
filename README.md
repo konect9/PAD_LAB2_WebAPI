@@ -5,7 +5,7 @@ This is the simplest REST Web Api.
 
 It uses MongoDB as database for the Data Warehouse server.
 
-In order to youse this API you would need to install, configure and populate a database
+In order to use this API you would need to install, configure and populate a MongoDB database.
 Name of database : SocialDb
 Name of collection : Posts
 
