@@ -15,12 +15,10 @@ Theese fields can contain data or be null.
 
 
 The API uses the next HTTP Methods:
+
       GET - Is used to print information from the datawarehouse to the client
-
       POST - Is used to create a new piece of data on the datawarehouse
-
       PUT - Is used to update/change data on the datawarehouse
-
       DELETE - Is used to delete data from the datawarehouse
       
 
